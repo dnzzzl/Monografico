@@ -18,4 +18,4 @@ En este repositorio se orquestra la colaboracion entre los miembros del grupo, s
 Al agregar al documento monografico, se deben de seguir reglas de formatos estrictas. Estas reglas de formato estaran siendo monitoreadas por uno/mas de uno de los integrantes de nuestro grupo, de manera que haya una persona llevando el cuidado del formato del documento. Por esta razon, cuando se este trabajando en uno de los capitulos, crearemos un archivo .md en formato markdown y colaboraremos el capitulo determinado en este archivo del mismo nombre,  para llevar el progreso y notas antes de agregar al monografico.
 # Enlaces 
 Enlaces en el repositorio visibles en [Obsidian](https://obsidian.md/) o cualquier otro editor markdown
-- [[Seleccion de tema]]
+- Seleccion de tema
